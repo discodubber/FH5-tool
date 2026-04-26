@@ -62,7 +62,7 @@ function App() {
         <div className="field option-row">
           <span>Performance Index</span>
           <small>Enter the car’s PI number.</small>
-          <div className="pi-badge" style={{ borderColor: piCogitlor }}>
+          <div className="pi-badge" style={{ borderColor: piColor }}>
             <div className="pi-class" style={{ background: piColor }}> {piClass} </div>
             <input
               className="pi-input"
