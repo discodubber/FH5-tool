@@ -1,7 +1,7 @@
 import "./App.css"
 import { useRef, useState } from "react"
 import { getPiClass } from "./data/piClasses"
-import { raceMap } from "./Data/raceTypes"
+import { raceMap } from "./data/raceTypes"
 import InfoPopover from "./components/InfoPopover"
 
 function App() {
